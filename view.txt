@@ -1,1 +1,2 @@
-# getting sarted 
+# getting sarted
+repo2 https://github.com/Shane-Cage/test_repo_2.git GIT master HEAD 
