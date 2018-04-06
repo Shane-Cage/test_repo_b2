@@ -1,3 +1,4 @@
 # getting sarted
-repo2 https://github.com/Shane-Cage/test_repo_2.git GIT master HEAD 
-repo3 https://github.com/Shane-Cage/test_repo_3.git GIT master HEAD
+
+repo_b2 https://github.com/Shane-Cage/repo_b2.git GIT master HEAD
+viewrepo_b1 https://github.com/Shane-Cage/viewrepo_b1.git GIT master HEAD
